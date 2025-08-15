@@ -1,0 +1,26 @@
+{
+  "name": "mi-proyecto-react",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^5.5.0",
+    "react-multi-carousel": "^2.8.6",
+    "react-router-dom": "^6.0.0",
+    "sweetalert2": "^11.22.4",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "vite": "^4.4.0"
+  }
+}
